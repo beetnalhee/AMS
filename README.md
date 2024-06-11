@@ -36,3 +36,5 @@ Account Management System
 ##### 1111-1111 계좌 삭제 후, 목록 출력하면 1111-1111 계좌가 없어진 것을 확인 할 수 있음 
 <img src="https://github.com/beetnalhee/AMS/assets/151362604/80d5c8dd-5f20-4624-8058-67850e32e298" width="400" height="300"/></br>
 
+# 🔨 개선점
+* 유효성검사는 없는 상태로, 동일한 계좌번호가 생성되거나, 계좌가 숫자가 아니어도 생성되는 문제가 있음
