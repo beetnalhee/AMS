@@ -17,9 +17,14 @@ Account Management System
 각 메뉴에 접근할 수 있다. 
 
 * 메뉴 : [ 1.계좌생성 | 2.계좌목록 | 3.예금 | 4.출금 | 5.검색 | 6. 삭제 | 7. 종료 ]
-
+<br />
+      
 # 🔨 개선점
 * 유효성검사는 없는 상태로, 동일한 계좌번호가 생성되거나, 계좌가 숫자가 아니어도 생성되는 문제가 있음
+<br />
+      
+# ⌨️ 코드
+[코드보기](https://github.com/beetnalhee/AMS/tree/main/project_ams/src/com/ezen/ams/bin)
 
 #### 1. Java 코드 실행화면 
 <img src="https://github.com/beetnalhee/AMS/assets/151362604/3114df5b-da66-4bcd-9805-ff5a4179dd12" width="400" height="300"/></br>
