@@ -12,12 +12,12 @@ Account Management System
 # 🔑 구현내용
 
 ### 1. Java코드를 사용하여 계좌관리 기능을 구현 
+
 * 계좌 관리 프로그램을 실행하면 총 7가지의 메뉴가 출력되며 scanner를 사용하여,
 각 메뉴에 접근할 수 있다. 
 
 * 메뉴 : [ 1.계좌생성 | 2.계좌목록 | 3.예금 | 4.출금 | 5.검색 | 6. 삭제 | 7. 종료 ]
-<br />
-<br />
+
 #### 1. Java 코드 실행화면 
 <img src="https://github.com/beetnalhee/AMS/assets/151362604/3114df5b-da66-4bcd-9805-ff5a4179dd12" width="400" height="300"/></br>
 #### 2. 계좌 생성 (입출금 계좌) 
