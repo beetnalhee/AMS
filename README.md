@@ -18,6 +18,9 @@ Account Management System
 
 * 메뉴 : [ 1.계좌생성 | 2.계좌목록 | 3.예금 | 4.출금 | 5.검색 | 6. 삭제 | 7. 종료 ]
 
+# 🔨 개선점
+* 유효성검사는 없는 상태로, 동일한 계좌번호가 생성되거나, 계좌가 숫자가 아니어도 생성되는 문제가 있음
+
 #### 1. Java 코드 실행화면 
 <img src="https://github.com/beetnalhee/AMS/assets/151362604/3114df5b-da66-4bcd-9805-ff5a4179dd12" width="400" height="300"/></br>
 #### 2. 계좌 생성 (입출금 계좌) 
@@ -36,5 +39,4 @@ Account Management System
 ##### 1111-1111 계좌 삭제 후, 목록 출력하면 1111-1111 계좌가 없어진 것을 확인 할 수 있음 
 <img src="https://github.com/beetnalhee/AMS/assets/151362604/80d5c8dd-5f20-4624-8058-67850e32e298" width="400" height="300"/></br>
 
-# 🔨 개선점
-* 유효성검사는 없는 상태로, 동일한 계좌번호가 생성되거나, 계좌가 숫자가 아니어도 생성되는 문제가 있음
+
